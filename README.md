@@ -8,3 +8,6 @@ git init
 
 ## Section 1
 How to git good at version control 
+
+## Section 2
+Pulling changes from Github
